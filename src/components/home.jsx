@@ -5,6 +5,7 @@ import About from './about'
 import WhyToChooseSection from './whyToChooseSection'
 import Stats from './stats'
 import Menu from './menu'
+import Testinomial from './testinomial'
 
 function Home() {
     return (
@@ -16,6 +17,7 @@ function Home() {
                 <WhyToChooseSection/>
                 <Stats/>
                 <Menu/>
+                <Testinomial/>
             </div>
         </body>
     )
