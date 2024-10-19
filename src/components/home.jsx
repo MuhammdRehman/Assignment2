@@ -4,6 +4,7 @@ import Hero from './hero'
 import About from './about'
 import WhyToChooseSection from './whyToChooseSection'
 import Stats from './stats'
+import Menu from './menu'
 
 function Home() {
     return (
@@ -14,6 +15,7 @@ function Home() {
                 <About/>
                 <WhyToChooseSection/>
                 <Stats/>
+                <Menu/>
             </div>
         </body>
     )
