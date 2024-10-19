@@ -7,10 +7,12 @@ import Stats from './stats'
 import Menu from './menu'
 import Testinomial from './testinomial'
 import Events from './events'
+import Chefs from './chef'
+import Footer from './footer'
 
-function Home() {
+const Home=()=> {
     return (
-        <body className='index-page'>
+        <div className='index-page'>
             <Header />
             <div className="main">
                 <Hero />
@@ -20,9 +22,11 @@ function Home() {
                 <Menu/>
                 <Testinomial/>
                 <Events/>
+                <Chefs/>
+                <Footer/>
             </div>
-        </body>
+        </div>
     )
 }
 
-export default Home
+export default Home;

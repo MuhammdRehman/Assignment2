@@ -5,7 +5,7 @@ function Header() {
         <header id="header" className="header d-flex align-items-center sticky-top">
             <div className="container position-relative d-flex align-items-center justify-content-between">
 
-                <a href="index.html" className="logo d-flex align-items-center me-auto me-xl-0">
+                <a className="logo d-flex align-items-center me-auto me-xl-0">
                
                         <h1 className="sitename">Yummy</h1>
                         <span>.</span>
