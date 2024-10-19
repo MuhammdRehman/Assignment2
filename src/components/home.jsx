@@ -1,6 +1,7 @@
 import React from 'react'
 import Header from './header'
 import Hero from './hero'
+import About from './about'
 
 function Home() {
     return (
@@ -8,6 +9,7 @@ function Home() {
             <Header />
             <div className="main">
                 <Hero />
+                <About/>
             </div>
         </body>
     )
