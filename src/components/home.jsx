@@ -3,6 +3,7 @@ import Header from './header'
 import Hero from './hero'
 import About from './about'
 import WhyToChooseSection from './whyToChooseSection'
+import Stats from './stats'
 
 function Home() {
     return (
@@ -12,6 +13,7 @@ function Home() {
                 <Hero />
                 <About/>
                 <WhyToChooseSection/>
+                <Stats/>
             </div>
         </body>
     )
