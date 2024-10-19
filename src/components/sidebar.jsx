@@ -1,6 +1,6 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
-import Signin from "./signin";
+
 
 const Sidebar = () => {
     return (
@@ -28,7 +28,7 @@ const Sidebar = () => {
                         </li>
 
                         <li className="sidebar-item">
-                            <NavLink className="sidebar-link" to="Signin" activeClassName="active">
+                            <NavLink className="sidebar-link" to="/signin" activeClassName="active">
                                 <i className="align-middle" data-feather="log-in"></i>
                                 <span className="align-middle">Sign In</span>
                             </NavLink>
@@ -118,4 +118,4 @@ const Sidebar = () => {
     );
 };
 
-export default Sidebar;
+export default  Sidebar;

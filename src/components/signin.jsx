@@ -1,7 +1,8 @@
 import React from "react";
 
 const Signin = () => {
-    <>
+
+    return (
         <main class="d-flex w-100">
             <div class="container d-flex flex-column">
                 <div class="row vh-100">
@@ -30,7 +31,7 @@ const Signin = () => {
                                             <div>
                                                 <div class="form-check align-items-center">
                                                     <input id="customControlInline" type="checkbox" class="form-check-input" value="remember-me" name="remember-me" checked />
-                                                        <label class="form-check-label text-small" for="customControlInline">Remember me</label>
+                                                    <label class="form-check-label text-small" for="customControlInline">Remember me</label>
                                                 </div>
                                             </div>
                                             <div class="d-grid gap-2 mt-3">
@@ -48,6 +49,6 @@ const Signin = () => {
                 </div>
             </div>
         </main>
-    </>
+    );
 }
 export default Signin;
