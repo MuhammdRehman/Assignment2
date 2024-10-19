@@ -2,6 +2,7 @@ import React from 'react'
 import Header from './header'
 import Hero from './hero'
 import About from './about'
+import WhyToChooseSection from './whyToChooseSection'
 
 function Home() {
     return (
@@ -10,6 +11,7 @@ function Home() {
             <div className="main">
                 <Hero />
                 <About/>
+                <WhyToChooseSection/>
             </div>
         </body>
     )
