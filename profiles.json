@@ -1,0 +1,47 @@
+[
+  {
+    "Name": "Muhammad Rehman",
+    "Title": "Computer Science Student",
+    "TargetedKeywords": [
+      "Programming",
+      "Web Development",
+      "Software Development",
+      "Machine Learning"
+    ],
+    "Education": [
+      {
+        "date": "2022-Present",
+        "degree": "Bachelor's Degree",
+        "institution": "Information Technology University, Lahore"
+      },
+      {
+        "date": "2020-2022",
+        "degree": "Intermediate",
+        "institution": "Superior Group of Colleges"
+      },
+      {
+        "date": "2018-2020",
+        "degree": "Matriculation",
+        "institution": "Govt. High School"
+      },
+      {
+        "date": "June 2024",
+        "degree": "Short Course",
+        "institution": "ASP.NET CORE"
+      }
+    ],
+    "Certification": [
+      "ASP.NET CORE Certification",
+      "GitHub Training"
+    ],
+    "Contact": {
+      "WhatsApp": "https://wa.me/923457036657",
+      "Instagram": "https://www.instagram.com/_muhammad_rehman_",
+      "LinkedIn": "https://www.linkedin.com/in/muhammad-rehman-196bb5263",
+      "Github": "https://github.com/MuhammdRehman",
+      "Email": "ammuhammadrehman@gmail.com",
+      "Facebook": "https://www.facebook.com/profile.php?id=100053799444115"
+    },
+    "timestamp": "2024-10-20T16:34:18.130Z"
+  }
+]
